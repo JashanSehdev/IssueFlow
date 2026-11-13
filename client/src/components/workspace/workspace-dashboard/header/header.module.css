@@ -1,0 +1,10 @@
+.container{
+    justify-content: space-between !important;
+    align-items: center !important;
+    margin-bottom: 3rem;
+}
+.title { 
+    font-size: 30px !important;
+    word-spacing: 3 !important;
+    letter-spacing: 2 !important;
+}

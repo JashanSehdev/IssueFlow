@@ -1,0 +1,14 @@
+.button {
+    border-radius: 0 !important;
+    padding: 1 9 !important;
+}
+
+.title {
+    letter-spacing: 2;
+    word-spacing: 3;
+    font-size: larger;
+}
+
+.buttons {
+    margin-top: 3rem;
+}
